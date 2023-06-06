@@ -12,3 +12,6 @@ Code and data revealing differences between paper and electronic Chinese signatu
 ## Code
 ### Folder Structure
 Code for analysis is contained in folder "control" and folder "experiment", and that for image process is contained in folder "imageprocess".
+
+## Reference
+Refer to this repository using [DOI: 10.5281/zenodo.8008661](https://doi.org/10.5281/zenodo.8008661)
