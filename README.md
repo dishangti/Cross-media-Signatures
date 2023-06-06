@@ -1,6 +1,8 @@
 # Cross-media-Signatures
 Code and data revealing differences between paper and electronic Chinese signatures.
 
+[![DOI](https://zenodo.org/badge/649775887.svg)](https://zenodo.org/badge/latestdoi/649775887)
+
 ## Data
 ### Folder Structure
 - Folder "origin" contains originally scanned data of signatures.
