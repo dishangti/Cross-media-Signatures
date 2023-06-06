@@ -1,7 +1,7 @@
 # Cross-media-Signatures
 Code and data revealing differences between paper and electronic Chinese signatures.
 
-## Signature Data
+## Data
 ### Folder Structure
 - Folder "origin" contains originally scanned data of signatures.
 - Folder "control" contains data of control group, where volunteers wrote at least twice specified names.
