@@ -8,3 +8,7 @@ Code and data revealing differences between paper and electronic Chinese signatu
 - Folder "experiment" contains data of experimental group, where volunteers wrote specified names on paper, iPad, phone (in hand) and phone (on table).
 - Folder "results" contains computing results of all models.
 - Folder "models" contains trained neural network models.
+
+## Code
+### Folder Structure
+Code for analysis is contained in folder "control" and folder "experiment", and that for image process is contained in folder "imageprocess".
