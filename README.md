@@ -1,7 +1,10 @@
 # Cross-media-Signatures
 Code and data revealing differences between paper and electronic Chinese signatures.
 
+## Citation
 [![DOI](https://zenodo.org/badge/649775887.svg)](https://zenodo.org/badge/latestdoi/649775887)
+Cite this dataset or code using [DOI: 10.5281/zenodo.8008661](https://doi.org/10.5281/zenodo.8008661)
+Related research paper [DOI: 10.1002/aisy.202300439](https://doi.org/10.1002/aisy.202300439)
 
 ## Data
 ### Folder Structure
@@ -14,6 +17,3 @@ Code and data revealing differences between paper and electronic Chinese signatu
 ## Code
 ### Folder Structure
 Code for analysis is contained in folder "control" and folder "experiment", and that for image process is contained in folder "imageprocess".
-
-## Citation
-Cite this dataset or code using [DOI: 10.5281/zenodo.8008661](https://doi.org/10.5281/zenodo.8008661)
