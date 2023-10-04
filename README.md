@@ -2,8 +2,8 @@
 Code and data revealing differences between paper and electronic Chinese signatures.
 
 ## Citation
-[![DOI](https://zenodo.org/badge/649775887.svg)](https://zenodo.org/badge/latestdoi/649775887)
-Cite this dataset or code using [DOI: 10.5281/zenodo.8008661](https://doi.org/10.5281/zenodo.8008661)
+Cite this dataset or code using [DOI: 10.5281/zenodo.8008661](https://doi.org/10.5281/zenodo.8008661) [![DOI](https://zenodo.org/badge/649775887.svg)](https://zenodo.org/badge/latestdoi/649775887)
+
 Related research paper [DOI: 10.1002/aisy.202300439](https://doi.org/10.1002/aisy.202300439)
 
 ## Data
