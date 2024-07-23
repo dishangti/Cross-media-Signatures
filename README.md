@@ -6,7 +6,7 @@ Cite this dataset or code using [DOI: 10.5281/zenodo.8008661](https://doi.org/10
 
 Related research paper [DOI: 10.1002/aisy.202300439](https://doi.org/10.1002/aisy.202300439)
 
-`Luo, Ji-Feng, Xinding Xia, Zhihao Wang, Fangyu Shi, and Zhijuan Jin. "Viewing preferences of ASD children on paintings." Displays (2024): 102788.`
+`Luo, Ji-Feng, Yun-Zhu Pu, Jie-Yang Yin, Xiaohong Liu, Tao Tan, Yudong Zhang, and Menghan Hu. "Is There a Difference between Paper and Electronic Chinese Signatures?." Advanced Intelligent Systems 5, no. 12 (2023): 2300439.`
 
 ## Data
 ### Folder Structure
