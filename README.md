@@ -6,6 +6,8 @@ Cite this dataset or code using [DOI: 10.5281/zenodo.8008661](https://doi.org/10
 
 Related research paper [DOI: 10.1002/aisy.202300439](https://doi.org/10.1002/aisy.202300439)
 
+`Luo, Ji-Feng, Xinding Xia, Zhihao Wang, Fangyu Shi, and Zhijuan Jin. "Viewing preferences of ASD children on paintings." Displays (2024): 102788.`
+
 ## Data
 ### Folder Structure
 - Folder "origin" contains originally scanned data of signatures.
