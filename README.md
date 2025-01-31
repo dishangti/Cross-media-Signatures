@@ -1,12 +1,23 @@
 # Cross-media-Signatures
 Code and data revealing differences between paper and electronic Chinese signatures.
 
+[![DOI](https://zenodo.org/badge/649775887.svg)](https://zenodo.org/badge/latestdoi/649775887)
+
 ## Citation
-Cite this dataset or code using [DOI: 10.5281/zenodo.8008661](https://doi.org/10.5281/zenodo.8008661) [![DOI](https://zenodo.org/badge/649775887.svg)](https://zenodo.org/badge/latestdoi/649775887)
-
-Related research paper [DOI: 10.1002/aisy.202300439](https://doi.org/10.1002/aisy.202300439)
-
-`Luo, Ji-Feng, Yun-Zhu Pu, Jie-Yang Yin, Xiaohong Liu, Tao Tan, Yudong Zhang, and Menghan Hu. "Is There a Difference between Paper and Electronic Chinese Signatures?." Advanced Intelligent Systems 5, no. 12 (2023): 2300439.`
+`Luo, J., Pu, Y., Yin, J., Liu, X., Tan, T., Zhang, Y. and Hu, M. (2023), Is There a Difference between Paper and Electronic Chinese Signatures?. Adv. Intell. Syst., 5: 2300439. https://doi.org/10.1002/aisy.202300439`
+```bibtex
+@article{202300439,
+author = {Luo, Ji-Feng and Pu, Yun-Zhu and Yin, Jie-Yang and Liu, Xiaohong and Tan, Tao and Zhang, Yudong and Hu, Menghan},
+title = {Is There a Difference between Paper and Electronic Chinese Signatures?},
+journal = {Advanced Intelligent Systems},
+volume = {5},
+number = {12},
+pages = {2300439},
+keywords = {Bézier curve, cross-media analysis, neural networks, signature authentication},
+doi = {https://doi.org/10.1002/aisy.202300439},
+year = {2023}
+}
+```
 
 ## Data
 ### Folder Structure
